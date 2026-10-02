@@ -1,4 +1,4 @@
-# Aplicación Multiinquilino con Amazon Bedrock Agent Core
+# Agente GenIA / Multiinquilino con Amazon Bedrock Agent Core
 
 Una aplicación de chat multiinquilino que demuestra **Amazon Bedrock Agent Core Runtime**, **autenticación JWT con Cognito**, **almacenamiento de sesiones en DynamoDB** y **atribución granular de costos**. Este código sirve como implementación de referencia para construir aplicaciones de IA multiinquilino similares.
 
